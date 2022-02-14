@@ -1,0 +1,60 @@
+Vivado Simulator v2021.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2021.1/bin/unwrapped/win64.o/xelab.exe -wto e1c20ba2235244849e76a224d33c6cc4 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot multiplier_sim_behav xil_defaultlib.multiplier_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package xil_defaultlib.pkg
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.register_n [\register_n(n=64)\]
+Compiling architecture behavioral of entity xil_defaultlib.SE [se_default]
+Compiling architecture behavioral of entity xil_defaultlib.SST [\SST(n=64)\]
+Compiling architecture behavioral of entity xil_defaultlib.twoscompliment [\twoscompliment(n=32)\]
+Compiling architecture behavioral of entity xil_defaultlib.register_n [\register_n(n=2)\]
+Compiling architecture behavioral of entity xil_defaultlib.register_n [\register_n(n=32)\]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.Product_basic_generator [\Product_basic_generator(nr_shif...]
+Compiling architecture behavioral of entity xil_defaultlib.product_generator [product_generator_default]
+Compiling architecture behavioral of entity xil_defaultlib.SPT [\SPT(n=64)\]
+Compiling architecture behavioral of entity xil_defaultlib.twoscompliment [\twoscompliment(n=64)\]
+Compiling architecture behavioral of entity xil_defaultlib.multiplier [multiplier_default]
+Compiling architecture behavioral of entity xil_defaultlib.multiplier_sim
+Built simulation snapshot multiplier_sim_behav

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1641762165">
+  <File Type="ROUTE-PWR" Name="multiplier_ssd_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="multiplier_ssd.tcl"/>
+  <File Type="BITSTR-MMI" Name="multiplier_ssd.mmi"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="multiplier_ssd_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="multiplier_ssd_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="multiplier_ssd_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="multiplier_ssd_reports.tcl"/>
+  <File Type="OPT-TIMING" Name="multiplier_ssd_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="multiplier_ssd_opt.dcp"/>
+  <File Type="OPT-DRC" Name="multiplier_ssd_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="multiplier_ssd.hwdef"/>
+  <File Type="PWROPT-DCP" Name="multiplier_ssd_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="multiplier_ssd_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="multiplier_ssd_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="multiplier_ssd_placed.dcp"/>
+  <File Type="PLACE-IO" Name="multiplier_ssd_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="multiplier_ssd_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="multiplier_ssd_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="multiplier_ssd_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="multiplier_ssd_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="multiplier_ssd_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="multiplier_ssd_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="multiplier_ssd.bin"/>
+  <File Type="PLACE-TIMING" Name="multiplier_ssd_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="multiplier_ssd_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="multiplier_ssd.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="multiplier_ssd_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="multiplier_ssd_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="multiplier_ssd_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="multiplier_ssd.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="multiplier_ssd_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="multiplier_ssd_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="multiplier_ssd_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="multiplier_ssd_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="multiplier_ssd_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="multiplier_ssd_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="multiplier_ssd_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="multiplier_ssd_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="multiplier_ssd_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="multiplier_ssd_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="multiplier_ssd_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="multiplier_ssd_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="multiplier_ssd_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="multiplier_ssd_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="multiplier_ssd_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="multiplier_ssd_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="multiplier_ssd_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="multiplier_ssd_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="multiplier_ssd_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="multiplier_ssd_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="multiplier_ssd_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="multiplier_ssd_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="multiplier_ssd_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="multiplier_ssd_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="multiplier_ssd_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="multiplier_ssd_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="multiplier_ssd_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="multiplier_ssd.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="multiplier_ssd_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="multiplier_ssd_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="multiplier_ssd.nky"/>
+  <File Type="BITSTR-BMM" Name="multiplier_ssd_bd.bmm"/>
+  <File Type="PDI-FILE" Name="multiplier_ssd.pdi"/>
+  <File Type="RCFI_FILE" Name="multiplier_ssd.rcfi"/>
+  <File Type="CFI_FILE" Name="multiplier_ssd.cfi"/>
+  <File Type="RNPI_FILE" Name="multiplier_ssd.rnpi"/>
+  <File Type="NPI_FILE" Name="multiplier_ssd.npi"/>
+  <File Type="RBD_FILE" Name="multiplier_ssd.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="multiplier_ssd.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="multiplier_ssd.sysdef"/>
+  <File Type="BG-BGN" Name="multiplier_ssd.bgn"/>
+  <File Type="BG-DRC" Name="multiplier_ssd.drc"/>
+  <File Type="RDI-RDI" Name="multiplier_ssd.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/Product_basic_generator.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/SE.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/SPT.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/SST.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/UC.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/mpg.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/product_generator.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/multiplier.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/register_n.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/register_n_ce.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ssd.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/twoscompliment.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/multiplier_ssd.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/multiplier_sim.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="multiplier_ssd"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/constrangeri.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2021">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
